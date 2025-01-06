@@ -18,8 +18,8 @@ Este proyecto es un servicio que cambia automáticamente el fondo de pantalla en
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/wallpaper-service.git
-   cd wallpaper-service
+   git clone https://github.com/dvnber10/Walls-Arch
+   cd Walls-Arch
    ```
 
 2. Instala las dependencias de Python:
